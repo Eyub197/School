@@ -1,0 +1,76 @@
+using System;
+using System.Threading;
+
+namespace Dm
+{
+    class FirstThread
+    {
+       public  string[] foods = new string[10];
+       public  string[] drinks = new string[10];
+        public int foodIndex = 0;
+        public int drinkIndex = 0;
+
+        public void DoTask()
+        {
+            Console.WriteLine("Enter a food item:");
+            string food = Console.ReadLine();
+            foods[foodIndex] = food;
+            foodIndex++;
+        }
+
+        public void DoTask2()
+        {
+            Console.WriteLine("Enter a drink item:");
+            string drink = Console.ReadLine();
+            drinks[drinkIndex] = drink;
+            drinkIndex++;
+        }
+    }
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            FirstThread ft = new FirstThread();
+
+            Thread foodThread = new Thread(() =>
+            {
+                for (int i = 0; i < 5; i++)
+                {
+                    ft.DoTask();
+                }
+            });
+
+            Thread drinkThread = new Thread(() =>
+            {
+                for (int i = 0; i < 5; i++)
+                {
+                    ft.DoTask2();
+                }
+            });
+
+            foodThread.Start();
+            drinkThread.Start();
+
+            foodThread.Join();
+            drinkThread.Join();
+
+            Console.WriteLine("Favorite Foods:");
+            foreach (string food in ft.foods)
+            {
+                if (food != null)
+                {
+                    Console.WriteLine(food);
+                }
+            }
+
+            Console.WriteLine("Favorite Drinks:");
+            foreach (string drink in ft.drinks)
+            {
+                if (drink != null)
+                {
+                    Console.WriteLine(drink);
+                }
+            }
+        }
+    }
+}
