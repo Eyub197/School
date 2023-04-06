@@ -6,6 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//Business
 namespace CRUD_ORM_pres0709.Business
 {
     public class ProductBusiness
@@ -92,6 +93,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//Display
 namespace CRUD_ORM_pres0709.Presentation
 {
     public class Display
@@ -241,6 +243,35 @@ namespace CRUD_ORM_pres0709.Presentation
                 Console.WriteLine("{0} {1} {2} {3}", item.Id, item.Name, item.Price, item.Stock);
             }
         }
+    }
+}
+
+//Context
+using CRUD_ORM_pres0709.Data.Model;//????????
+using Microsoft.EntityFrameworkCore;//????????
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace CRUD_ORM_pres0709.Data
+{
+    class ProductContext : DbContext
+    {
+        public DbSet<Product> Products { get; set; }
+        public ProductContext()
+        {
+            // Create the database automaticly
+            Database.EnsureCreated();
+        }
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        {
+            optionsBuilder.UseMySQL("server=localhost;database=shop;user=root;password=");
+            //optionsBuilder.UseMySQL("server=localhost;database=library;user=user;password=password");
+        }
+
     }
 }
 
