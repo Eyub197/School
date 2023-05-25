@@ -1,0 +1,48 @@
+C:\Users\PC\OneDrive\Desktop\Idk\SkateBoardDisplay\bin\Debug\net5.0-windows\SkateBoardDisplay.exe
+C:\Users\PC\OneDrive\Desktop\Idk\SkateBoardDisplay\bin\Debug\net5.0-windows\SkateBoardDisplay.deps.json
+C:\Users\PC\OneDrive\Desktop\Idk\SkateBoardDisplay\bin\Debug\net5.0-windows\SkateBoardDisplay.runtimeconfig.json
+C:\Users\PC\OneDrive\Desktop\Idk\SkateBoardDisplay\bin\Debug\net5.0-windows\SkateBoardDisplay.runtimeconfig.dev.json
+C:\Users\PC\OneDrive\Desktop\Idk\SkateBoardDisplay\bin\Debug\net5.0-windows\SkateBoardDisplay.dll
+C:\Users\PC\OneDrive\Desktop\Idk\SkateBoardDisplay\bin\Debug\net5.0-windows\SkateBoardDisplay.pdb
+C:\Users\PC\OneDrive\Desktop\Idk\SkateBoardDisplay\obj\Debug\net5.0-windows\SkateBoardDisplay.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Desktop\Idk\SkateBoardDisplay\obj\Debug\net5.0-windows\SkateBoardDisplay.SkateboardForm.resources
+C:\Users\PC\OneDrive\Desktop\Idk\SkateBoardDisplay\obj\Debug\net5.0-windows\SkateBoardDisplay.csproj.GenerateResource.cache
+C:\Users\PC\OneDrive\Desktop\Idk\SkateBoardDisplay\obj\Debug\net5.0-windows\SkateBoardDisplay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Desktop\Idk\SkateBoardDisplay\obj\Debug\net5.0-windows\SkateBoardDisplay.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Desktop\Idk\SkateBoardDisplay\obj\Debug\net5.0-windows\SkateBoardDisplay.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Desktop\Idk\SkateBoardDisplay\obj\Debug\net5.0-windows\SkateBoardDisplay.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Desktop\Idk\SkateBoardDisplay\obj\Debug\net5.0-windows\SkateBoardDisplay.dll
+C:\Users\PC\OneDrive\Desktop\Idk\SkateBoardDisplay\obj\Debug\net5.0-windows\refint\SkateBoardDisplay.dll
+C:\Users\PC\OneDrive\Desktop\Idk\SkateBoardDisplay\obj\Debug\net5.0-windows\SkateBoardDisplay.pdb
+C:\Users\PC\OneDrive\Desktop\Idk\SkateBoardDisplay\obj\Debug\net5.0-windows\SkateBoardDisplay.genruntimeconfig.cache
+C:\Users\PC\OneDrive\Desktop\Idk\SkateBoardDisplay\obj\Debug\net5.0-windows\ref\SkateBoardDisplay.dll
+C:\Users\PC\OneDrive\Desktop\Idk\SkateBoardDisplay\obj\Debug\net5.0-windows\SkateBoardDisplay.BrandForms.resources
+C:\Users\PC\OneDrive\Desktop\Idk\SkateBoardDisplay\obj\Debug\net5.0-windows\SkateBoardDisplay.DecksForm.resources
+C:\Users\PC\OneDrive\Desktop\Idk\SkateBoardDisplay\obj\Debug\net5.0-windows\SkateBoardDisplay.WheelForm.resources
+C:\Users\PC\OneDrive\Desktop\Idk\SkateBoardDisplay\obj\Debug\net5.0-windows\SkateBoardDisplay.BearingForm.resources
+C:\Users\PC\OneDrive\Desktop\Idk\SkateBoardDisplay\obj\Debug\net5.0-windows\SkateBoardDisplay.SKforms.resources
+C:\Users\PC\OneDrive\Desktop\Idk\SkateBoardDisplay\obj\Debug\net5.0-windows\SkateBoardDisplay.Properties.Resources.resources
+C:\Users\PC\OneDrive\Desktop\SkProjectWinforms - Copy\SkateBoardDisplay\bin\Debug\net5.0-windows\SkateBoardDisplay.exe
+C:\Users\PC\OneDrive\Desktop\SkProjectWinforms - Copy\SkateBoardDisplay\bin\Debug\net5.0-windows\SkateBoardDisplay.deps.json
+C:\Users\PC\OneDrive\Desktop\SkProjectWinforms - Copy\SkateBoardDisplay\bin\Debug\net5.0-windows\SkateBoardDisplay.runtimeconfig.json
+C:\Users\PC\OneDrive\Desktop\SkProjectWinforms - Copy\SkateBoardDisplay\bin\Debug\net5.0-windows\SkateBoardDisplay.runtimeconfig.dev.json
+C:\Users\PC\OneDrive\Desktop\SkProjectWinforms - Copy\SkateBoardDisplay\bin\Debug\net5.0-windows\SkateBoardDisplay.dll
+C:\Users\PC\OneDrive\Desktop\SkProjectWinforms - Copy\SkateBoardDisplay\bin\Debug\net5.0-windows\SkateBoardDisplay.pdb
+C:\Users\PC\OneDrive\Desktop\SkProjectWinforms - Copy\SkateBoardDisplay\obj\Debug\net5.0-windows\SkateBoardDisplay.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Desktop\SkProjectWinforms - Copy\SkateBoardDisplay\obj\Debug\net5.0-windows\SkateBoardDisplay.BearingForm.resources
+C:\Users\PC\OneDrive\Desktop\SkProjectWinforms - Copy\SkateBoardDisplay\obj\Debug\net5.0-windows\SkateBoardDisplay.BrandForms.resources
+C:\Users\PC\OneDrive\Desktop\SkProjectWinforms - Copy\SkateBoardDisplay\obj\Debug\net5.0-windows\SkateBoardDisplay.DecksForm.resources
+C:\Users\PC\OneDrive\Desktop\SkProjectWinforms - Copy\SkateBoardDisplay\obj\Debug\net5.0-windows\SkateBoardDisplay.SkateboardForm.resources
+C:\Users\PC\OneDrive\Desktop\SkProjectWinforms - Copy\SkateBoardDisplay\obj\Debug\net5.0-windows\SkateBoardDisplay.Properties.Resources.resources
+C:\Users\PC\OneDrive\Desktop\SkProjectWinforms - Copy\SkateBoardDisplay\obj\Debug\net5.0-windows\SkateBoardDisplay.SKforms.resources
+C:\Users\PC\OneDrive\Desktop\SkProjectWinforms - Copy\SkateBoardDisplay\obj\Debug\net5.0-windows\SkateBoardDisplay.WheelForm.resources
+C:\Users\PC\OneDrive\Desktop\SkProjectWinforms - Copy\SkateBoardDisplay\obj\Debug\net5.0-windows\SkateBoardDisplay.csproj.GenerateResource.cache
+C:\Users\PC\OneDrive\Desktop\SkProjectWinforms - Copy\SkateBoardDisplay\obj\Debug\net5.0-windows\SkateBoardDisplay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Desktop\SkProjectWinforms - Copy\SkateBoardDisplay\obj\Debug\net5.0-windows\SkateBoardDisplay.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Desktop\SkProjectWinforms - Copy\SkateBoardDisplay\obj\Debug\net5.0-windows\SkateBoardDisplay.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Desktop\SkProjectWinforms - Copy\SkateBoardDisplay\obj\Debug\net5.0-windows\SkateBoardDisplay.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Desktop\SkProjectWinforms - Copy\SkateBoardDisplay\obj\Debug\net5.0-windows\SkateBoardDisplay.dll
+C:\Users\PC\OneDrive\Desktop\SkProjectWinforms - Copy\SkateBoardDisplay\obj\Debug\net5.0-windows\refint\SkateBoardDisplay.dll
+C:\Users\PC\OneDrive\Desktop\SkProjectWinforms - Copy\SkateBoardDisplay\obj\Debug\net5.0-windows\SkateBoardDisplay.pdb
+C:\Users\PC\OneDrive\Desktop\SkProjectWinforms - Copy\SkateBoardDisplay\obj\Debug\net5.0-windows\SkateBoardDisplay.genruntimeconfig.cache
+C:\Users\PC\OneDrive\Desktop\SkProjectWinforms - Copy\SkateBoardDisplay\obj\Debug\net5.0-windows\ref\SkateBoardDisplay.dll
