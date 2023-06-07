@@ -1,0 +1,238 @@
+C:\Users\PC\OneDrive\Desktop\Idk\SkateBoardDisplay\bin\Debug\net5.0-windows\SkateBoardDisplay.exe
+C:\Users\PC\OneDrive\Desktop\Idk\SkateBoardDisplay\bin\Debug\net5.0-windows\SkateBoardDisplay.deps.json
+C:\Users\PC\OneDrive\Desktop\Idk\SkateBoardDisplay\bin\Debug\net5.0-windows\SkateBoardDisplay.runtimeconfig.json
+C:\Users\PC\OneDrive\Desktop\Idk\SkateBoardDisplay\bin\Debug\net5.0-windows\SkateBoardDisplay.runtimeconfig.dev.json
+C:\Users\PC\OneDrive\Desktop\Idk\SkateBoardDisplay\bin\Debug\net5.0-windows\SkateBoardDisplay.dll
+C:\Users\PC\OneDrive\Desktop\Idk\SkateBoardDisplay\bin\Debug\net5.0-windows\SkateBoardDisplay.pdb
+C:\Users\PC\OneDrive\Desktop\Idk\SkateBoardDisplay\obj\Debug\net5.0-windows\SkateBoardDisplay.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Desktop\Idk\SkateBoardDisplay\obj\Debug\net5.0-windows\SkateBoardDisplay.SkateboardForm.resources
+C:\Users\PC\OneDrive\Desktop\Idk\SkateBoardDisplay\obj\Debug\net5.0-windows\SkateBoardDisplay.csproj.GenerateResource.cache
+C:\Users\PC\OneDrive\Desktop\Idk\SkateBoardDisplay\obj\Debug\net5.0-windows\SkateBoardDisplay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Desktop\Idk\SkateBoardDisplay\obj\Debug\net5.0-windows\SkateBoardDisplay.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Desktop\Idk\SkateBoardDisplay\obj\Debug\net5.0-windows\SkateBoardDisplay.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Desktop\Idk\SkateBoardDisplay\obj\Debug\net5.0-windows\SkateBoardDisplay.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Desktop\Idk\SkateBoardDisplay\obj\Debug\net5.0-windows\SkateBoardDisplay.dll
+C:\Users\PC\OneDrive\Desktop\Idk\SkateBoardDisplay\obj\Debug\net5.0-windows\refint\SkateBoardDisplay.dll
+C:\Users\PC\OneDrive\Desktop\Idk\SkateBoardDisplay\obj\Debug\net5.0-windows\SkateBoardDisplay.pdb
+C:\Users\PC\OneDrive\Desktop\Idk\SkateBoardDisplay\obj\Debug\net5.0-windows\SkateBoardDisplay.genruntimeconfig.cache
+C:\Users\PC\OneDrive\Desktop\Idk\SkateBoardDisplay\obj\Debug\net5.0-windows\ref\SkateBoardDisplay.dll
+C:\Users\PC\OneDrive\Desktop\Idk\SkateBoardDisplay\obj\Debug\net5.0-windows\SkateBoardDisplay.BrandForms.resources
+C:\Users\PC\OneDrive\Desktop\Idk\SkateBoardDisplay\obj\Debug\net5.0-windows\SkateBoardDisplay.DecksForm.resources
+C:\Users\PC\OneDrive\Desktop\Idk\SkateBoardDisplay\obj\Debug\net5.0-windows\SkateBoardDisplay.WheelForm.resources
+C:\Users\PC\OneDrive\Desktop\Idk\SkateBoardDisplay\obj\Debug\net5.0-windows\SkateBoardDisplay.BearingForm.resources
+C:\Users\PC\OneDrive\Desktop\Idk\SkateBoardDisplay\obj\Debug\net5.0-windows\SkateBoardDisplay.SKforms.resources
+C:\Users\PC\OneDrive\Desktop\Idk\SkateBoardDisplay\obj\Debug\net5.0-windows\SkateBoardDisplay.Properties.Resources.resources
+C:\Users\PC\OneDrive\Desktop\SkProjectWinforms - Copy\SkateBoardDisplay\bin\Debug\net5.0-windows\SkateBoardDisplay.exe
+C:\Users\PC\OneDrive\Desktop\SkProjectWinforms - Copy\SkateBoardDisplay\bin\Debug\net5.0-windows\SkateBoardDisplay.deps.json
+C:\Users\PC\OneDrive\Desktop\SkProjectWinforms - Copy\SkateBoardDisplay\bin\Debug\net5.0-windows\SkateBoardDisplay.runtimeconfig.json
+C:\Users\PC\OneDrive\Desktop\SkProjectWinforms - Copy\SkateBoardDisplay\bin\Debug\net5.0-windows\SkateBoardDisplay.runtimeconfig.dev.json
+C:\Users\PC\OneDrive\Desktop\SkProjectWinforms - Copy\SkateBoardDisplay\bin\Debug\net5.0-windows\SkateBoardDisplay.dll
+C:\Users\PC\OneDrive\Desktop\SkProjectWinforms - Copy\SkateBoardDisplay\bin\Debug\net5.0-windows\SkateBoardDisplay.pdb
+C:\Users\PC\OneDrive\Desktop\SkProjectWinforms - Copy\SkateBoardDisplay\obj\Debug\net5.0-windows\SkateBoardDisplay.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Desktop\SkProjectWinforms - Copy\SkateBoardDisplay\obj\Debug\net5.0-windows\SkateBoardDisplay.BearingForm.resources
+C:\Users\PC\OneDrive\Desktop\SkProjectWinforms - Copy\SkateBoardDisplay\obj\Debug\net5.0-windows\SkateBoardDisplay.BrandForms.resources
+C:\Users\PC\OneDrive\Desktop\SkProjectWinforms - Copy\SkateBoardDisplay\obj\Debug\net5.0-windows\SkateBoardDisplay.DecksForm.resources
+C:\Users\PC\OneDrive\Desktop\SkProjectWinforms - Copy\SkateBoardDisplay\obj\Debug\net5.0-windows\SkateBoardDisplay.SkateboardForm.resources
+C:\Users\PC\OneDrive\Desktop\SkProjectWinforms - Copy\SkateBoardDisplay\obj\Debug\net5.0-windows\SkateBoardDisplay.Properties.Resources.resources
+C:\Users\PC\OneDrive\Desktop\SkProjectWinforms - Copy\SkateBoardDisplay\obj\Debug\net5.0-windows\SkateBoardDisplay.SKforms.resources
+C:\Users\PC\OneDrive\Desktop\SkProjectWinforms - Copy\SkateBoardDisplay\obj\Debug\net5.0-windows\SkateBoardDisplay.WheelForm.resources
+C:\Users\PC\OneDrive\Desktop\SkProjectWinforms - Copy\SkateBoardDisplay\obj\Debug\net5.0-windows\SkateBoardDisplay.csproj.GenerateResource.cache
+C:\Users\PC\OneDrive\Desktop\SkProjectWinforms - Copy\SkateBoardDisplay\obj\Debug\net5.0-windows\SkateBoardDisplay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Desktop\SkProjectWinforms - Copy\SkateBoardDisplay\obj\Debug\net5.0-windows\SkateBoardDisplay.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Desktop\SkProjectWinforms - Copy\SkateBoardDisplay\obj\Debug\net5.0-windows\SkateBoardDisplay.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Desktop\SkProjectWinforms - Copy\SkateBoardDisplay\obj\Debug\net5.0-windows\SkateBoardDisplay.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Desktop\SkProjectWinforms - Copy\SkateBoardDisplay\obj\Debug\net5.0-windows\SkateBoardDisplay.dll
+C:\Users\PC\OneDrive\Desktop\SkProjectWinforms - Copy\SkateBoardDisplay\obj\Debug\net5.0-windows\refint\SkateBoardDisplay.dll
+C:\Users\PC\OneDrive\Desktop\SkProjectWinforms - Copy\SkateBoardDisplay\obj\Debug\net5.0-windows\SkateBoardDisplay.pdb
+C:\Users\PC\OneDrive\Desktop\SkProjectWinforms - Copy\SkateBoardDisplay\obj\Debug\net5.0-windows\SkateBoardDisplay.genruntimeconfig.cache
+C:\Users\PC\OneDrive\Desktop\SkProjectWinforms - Copy\SkateBoardDisplay\obj\Debug\net5.0-windows\ref\SkateBoardDisplay.dll
+C:\Users\PC\OneDrive\Desktop\skProject4\SkateBoardDisplay\bin\Debug\net5.0-windows\SkateBoardDisplay.exe
+C:\Users\PC\OneDrive\Desktop\skProject4\SkateBoardDisplay\bin\Debug\net5.0-windows\SkateBoardDisplay.deps.json
+C:\Users\PC\OneDrive\Desktop\skProject4\SkateBoardDisplay\bin\Debug\net5.0-windows\SkateBoardDisplay.runtimeconfig.json
+C:\Users\PC\OneDrive\Desktop\skProject4\SkateBoardDisplay\bin\Debug\net5.0-windows\SkateBoardDisplay.runtimeconfig.dev.json
+C:\Users\PC\OneDrive\Desktop\skProject4\SkateBoardDisplay\bin\Debug\net5.0-windows\SkateBoardDisplay.dll
+C:\Users\PC\OneDrive\Desktop\skProject4\SkateBoardDisplay\bin\Debug\net5.0-windows\SkateBoardDisplay.pdb
+C:\Users\PC\OneDrive\Desktop\skProject4\SkateBoardDisplay\obj\Debug\net5.0-windows\SkateBoardDisplay.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Desktop\skProject4\SkateBoardDisplay\obj\Debug\net5.0-windows\SkateBoardDisplay.BearingForm.resources
+C:\Users\PC\OneDrive\Desktop\skProject4\SkateBoardDisplay\obj\Debug\net5.0-windows\SkateBoardDisplay.BrandForms.resources
+C:\Users\PC\OneDrive\Desktop\skProject4\SkateBoardDisplay\obj\Debug\net5.0-windows\SkateBoardDisplay.DecksForm.resources
+C:\Users\PC\OneDrive\Desktop\skProject4\SkateBoardDisplay\obj\Debug\net5.0-windows\SkateBoardDisplay.SkateboardForm.resources
+C:\Users\PC\OneDrive\Desktop\skProject4\SkateBoardDisplay\obj\Debug\net5.0-windows\SkateBoardDisplay.Properties.Resources.resources
+C:\Users\PC\OneDrive\Desktop\skProject4\SkateBoardDisplay\obj\Debug\net5.0-windows\SkateBoardDisplay.SKforms.resources
+C:\Users\PC\OneDrive\Desktop\skProject4\SkateBoardDisplay\obj\Debug\net5.0-windows\SkateBoardDisplay.WheelForm.resources
+C:\Users\PC\OneDrive\Desktop\skProject4\SkateBoardDisplay\obj\Debug\net5.0-windows\SkateBoardDisplay.csproj.GenerateResource.cache
+C:\Users\PC\OneDrive\Desktop\skProject4\SkateBoardDisplay\obj\Debug\net5.0-windows\SkateBoardDisplay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Desktop\skProject4\SkateBoardDisplay\obj\Debug\net5.0-windows\SkateBoardDisplay.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Desktop\skProject4\SkateBoardDisplay\obj\Debug\net5.0-windows\SkateBoardDisplay.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Desktop\skProject4\SkateBoardDisplay\obj\Debug\net5.0-windows\SkateBoardDisplay.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Desktop\skProject4\SkateBoardDisplay\obj\Debug\net5.0-windows\SkateBoardDisplay.dll
+C:\Users\PC\OneDrive\Desktop\skProject4\SkateBoardDisplay\obj\Debug\net5.0-windows\refint\SkateBoardDisplay.dll
+C:\Users\PC\OneDrive\Desktop\skProject4\SkateBoardDisplay\obj\Debug\net5.0-windows\SkateBoardDisplay.pdb
+C:\Users\PC\OneDrive\Desktop\skProject4\SkateBoardDisplay\obj\Debug\net5.0-windows\SkateBoardDisplay.genruntimeconfig.cache
+C:\Users\PC\OneDrive\Desktop\skProject4\SkateBoardDisplay\obj\Debug\net5.0-windows\ref\SkateBoardDisplay.dll
+C:\Users\PC\OneDrive\Desktop\skProject4\SkateBoardDisplay\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\PC\OneDrive\Desktop\skProject4\SkateBoardDisplay\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\PC\OneDrive\Desktop\skProject4\SkateBoardDisplay\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\PC\OneDrive\Desktop\skProject4\SkateBoardDisplay\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\PC\OneDrive\Desktop\skProject4\SkateBoardDisplay\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\PC\OneDrive\Desktop\skProject4\SkateBoardDisplay\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\PC\OneDrive\Desktop\skProject4\SkateBoardDisplay\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\PC\OneDrive\Desktop\skProject4\SkateBoardDisplay\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\PC\OneDrive\Desktop\skProject4\SkateBoardDisplay\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\PC\OneDrive\Desktop\skProject4\SkateBoardDisplay\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\PC\OneDrive\Desktop\skProject4\SkateBoardDisplay\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\PC\OneDrive\Desktop\skProject4\SkateBoardDisplay\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\PC\OneDrive\Desktop\skProject4\SkateBoardDisplay\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\PC\OneDrive\Desktop\skProject4\SkateBoardDisplay\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\PC\OneDrive\Desktop\skProject4\SkateBoardDisplay\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\PC\OneDrive\Desktop\skProject4\SkateBoardDisplay\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\PC\OneDrive\Desktop\skProject4\SkateBoardDisplay\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\PC\OneDrive\Desktop\skProject4\SkateBoardDisplay\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\PC\OneDrive\Desktop\skProject4\SkateBoardDisplay\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\PC\OneDrive\Desktop\skProject4\SkateBoardDisplay\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\PC\OneDrive\Desktop\skProject4\SkateBoardDisplay\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\PC\OneDrive\Desktop\skProject4\SkateBoardDisplay\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PC\OneDrive\Desktop\skProject4\SkateBoardDisplay\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\PC\OneDrive\Desktop\skProject4\SkateBoardDisplay\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\PC\OneDrive\Desktop\skProject4\SkateBoardDisplay\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\PC\OneDrive\Desktop\skProject4\SkateBoardDisplay\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\PC\OneDrive\Desktop\skProject4\SkateBoardDisplay\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\OneDrive\Desktop\skProject4\SkateBoardDisplay\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\PC\OneDrive\Desktop\skProject4\SkateBoardDisplay\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\OneDrive\Desktop\skProject4\SkateBoardDisplay\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\PC\OneDrive\Desktop\skProject4\SkateBoardDisplay\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\OneDrive\Desktop\skProject4\SkateBoardDisplay\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\PC\OneDrive\Desktop\skProject4\SkateBoardDisplay\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\OneDrive\Desktop\skProject4\SkateBoardDisplay\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\PC\OneDrive\Desktop\skProject4\SkateBoardDisplay\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\PC\OneDrive\Desktop\skProject4\SkateBoardDisplay\bin\Debug\net5.0-windows\Model.dll
+C:\Users\PC\OneDrive\Desktop\skProject4\SkateBoardDisplay\bin\Debug\net5.0-windows\Model.pdb
+C:\Users\PC\OneDrive\Desktop\skProject4\SkateBoardDisplay\obj\Debug\net5.0-windows\SkateBoardDisplay.csproj.CopyComplete
+C:\Eyub 11 klas\school\SkatboardProject\SkateBoardWinFromsDislpay\bin\Debug\net5.0-windows\SkateBoardDisplay.exe
+C:\Eyub 11 klas\school\SkatboardProject\SkateBoardWinFromsDislpay\bin\Debug\net5.0-windows\SkateBoardDisplay.deps.json
+C:\Eyub 11 klas\school\SkatboardProject\SkateBoardWinFromsDislpay\bin\Debug\net5.0-windows\SkateBoardDisplay.runtimeconfig.json
+C:\Eyub 11 klas\school\SkatboardProject\SkateBoardWinFromsDislpay\bin\Debug\net5.0-windows\SkateBoardDisplay.runtimeconfig.dev.json
+C:\Eyub 11 klas\school\SkatboardProject\SkateBoardWinFromsDislpay\bin\Debug\net5.0-windows\SkateBoardDisplay.dll
+C:\Eyub 11 klas\school\SkatboardProject\SkateBoardWinFromsDislpay\bin\Debug\net5.0-windows\SkateBoardDisplay.pdb
+C:\Eyub 11 klas\school\SkatboardProject\SkateBoardWinFromsDislpay\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Eyub 11 klas\school\SkatboardProject\SkateBoardWinFromsDislpay\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Eyub 11 klas\school\SkatboardProject\SkateBoardWinFromsDislpay\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Eyub 11 klas\school\SkatboardProject\SkateBoardWinFromsDislpay\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Eyub 11 klas\school\SkatboardProject\SkateBoardWinFromsDislpay\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Eyub 11 klas\school\SkatboardProject\SkateBoardWinFromsDislpay\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Eyub 11 klas\school\SkatboardProject\SkateBoardWinFromsDislpay\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Eyub 11 klas\school\SkatboardProject\SkateBoardWinFromsDislpay\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Eyub 11 klas\school\SkatboardProject\SkateBoardWinFromsDislpay\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Eyub 11 klas\school\SkatboardProject\SkateBoardWinFromsDislpay\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Eyub 11 klas\school\SkatboardProject\SkateBoardWinFromsDislpay\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Eyub 11 klas\school\SkatboardProject\SkateBoardWinFromsDislpay\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Eyub 11 klas\school\SkatboardProject\SkateBoardWinFromsDislpay\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Eyub 11 klas\school\SkatboardProject\SkateBoardWinFromsDislpay\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Eyub 11 klas\school\SkatboardProject\SkateBoardWinFromsDislpay\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Eyub 11 klas\school\SkatboardProject\SkateBoardWinFromsDislpay\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Eyub 11 klas\school\SkatboardProject\SkateBoardWinFromsDislpay\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Eyub 11 klas\school\SkatboardProject\SkateBoardWinFromsDislpay\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Eyub 11 klas\school\SkatboardProject\SkateBoardWinFromsDislpay\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Eyub 11 klas\school\SkatboardProject\SkateBoardWinFromsDislpay\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Eyub 11 klas\school\SkatboardProject\SkateBoardWinFromsDislpay\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Eyub 11 klas\school\SkatboardProject\SkateBoardWinFromsDislpay\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Eyub 11 klas\school\SkatboardProject\SkateBoardWinFromsDislpay\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Eyub 11 klas\school\SkatboardProject\SkateBoardWinFromsDislpay\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Eyub 11 klas\school\SkatboardProject\SkateBoardWinFromsDislpay\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Eyub 11 klas\school\SkatboardProject\SkateBoardWinFromsDislpay\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Eyub 11 klas\school\SkatboardProject\SkateBoardWinFromsDislpay\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Eyub 11 klas\school\SkatboardProject\SkateBoardWinFromsDislpay\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Eyub 11 klas\school\SkatboardProject\SkateBoardWinFromsDislpay\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Eyub 11 klas\school\SkatboardProject\SkateBoardWinFromsDislpay\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Eyub 11 klas\school\SkatboardProject\SkateBoardWinFromsDislpay\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Eyub 11 klas\school\SkatboardProject\SkateBoardWinFromsDislpay\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Eyub 11 klas\school\SkatboardProject\SkateBoardWinFromsDislpay\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Eyub 11 klas\school\SkatboardProject\SkateBoardWinFromsDislpay\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Eyub 11 klas\school\SkatboardProject\SkateBoardWinFromsDislpay\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Eyub 11 klas\school\SkatboardProject\SkateBoardWinFromsDislpay\bin\Debug\net5.0-windows\Business.dll
+C:\Eyub 11 klas\school\SkatboardProject\SkateBoardWinFromsDislpay\bin\Debug\net5.0-windows\Model.dll
+C:\Eyub 11 klas\school\SkatboardProject\SkateBoardWinFromsDislpay\bin\Debug\net5.0-windows\Business.pdb
+C:\Eyub 11 klas\school\SkatboardProject\SkateBoardWinFromsDislpay\bin\Debug\net5.0-windows\Model.pdb
+C:\Eyub 11 klas\school\SkatboardProject\SkateBoardWinFromsDislpay\obj\Debug\net5.0-windows\SkateBoardDisplay.csproj.AssemblyReference.cache
+C:\Eyub 11 klas\school\SkatboardProject\SkateBoardWinFromsDislpay\obj\Debug\net5.0-windows\SkateBoardDisplay.BearingForm.resources
+C:\Eyub 11 klas\school\SkatboardProject\SkateBoardWinFromsDislpay\obj\Debug\net5.0-windows\SkateBoardDisplay.BrandForms.resources
+C:\Eyub 11 klas\school\SkatboardProject\SkateBoardWinFromsDislpay\obj\Debug\net5.0-windows\SkateBoardDisplay.DecksForm.resources
+C:\Eyub 11 klas\school\SkatboardProject\SkateBoardWinFromsDislpay\obj\Debug\net5.0-windows\SkateBoardDisplay.SkateboardForm.resources
+C:\Eyub 11 klas\school\SkatboardProject\SkateBoardWinFromsDislpay\obj\Debug\net5.0-windows\SkateBoardDisplay.Properties.Resources.resources
+C:\Eyub 11 klas\school\SkatboardProject\SkateBoardWinFromsDislpay\obj\Debug\net5.0-windows\SkateBoardDisplay.SKforms.resources
+C:\Eyub 11 klas\school\SkatboardProject\SkateBoardWinFromsDislpay\obj\Debug\net5.0-windows\SkateBoardDisplay.WheelForm.resources
+C:\Eyub 11 klas\school\SkatboardProject\SkateBoardWinFromsDislpay\obj\Debug\net5.0-windows\SkateBoardDisplay.csproj.GenerateResource.cache
+C:\Eyub 11 klas\school\SkatboardProject\SkateBoardWinFromsDislpay\obj\Debug\net5.0-windows\SkateBoardDisplay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Eyub 11 klas\school\SkatboardProject\SkateBoardWinFromsDislpay\obj\Debug\net5.0-windows\SkateBoardDisplay.AssemblyInfoInputs.cache
+C:\Eyub 11 klas\school\SkatboardProject\SkateBoardWinFromsDislpay\obj\Debug\net5.0-windows\SkateBoardDisplay.AssemblyInfo.cs
+C:\Eyub 11 klas\school\SkatboardProject\SkateBoardWinFromsDislpay\obj\Debug\net5.0-windows\SkateBoardDisplay.csproj.CoreCompileInputs.cache
+C:\Eyub 11 klas\school\SkatboardProject\SkateBoardWinFromsDislpay\obj\Debug\net5.0-windows\SkateBoardDisplay.csproj.CopyComplete
+C:\Eyub 11 klas\school\SkatboardProject\SkateBoardWinFromsDislpay\obj\Debug\net5.0-windows\SkateBoardDisplay.dll
+C:\Eyub 11 klas\school\SkatboardProject\SkateBoardWinFromsDislpay\obj\Debug\net5.0-windows\refint\SkateBoardDisplay.dll
+C:\Eyub 11 klas\school\SkatboardProject\SkateBoardWinFromsDislpay\obj\Debug\net5.0-windows\SkateBoardDisplay.pdb
+C:\Eyub 11 klas\school\SkatboardProject\SkateBoardWinFromsDislpay\obj\Debug\net5.0-windows\SkateBoardDisplay.genruntimeconfig.cache
+C:\Eyub 11 klas\school\SkatboardProject\SkateBoardWinFromsDislpay\obj\Debug\net5.0-windows\ref\SkateBoardDisplay.dll
+C:\Users\Eyub\Desktop\SkatboardProject\SkateBoardWinFromsDislpay\bin\Debug\net5.0-windows\SkateBoardDisplay.exe
+C:\Users\Eyub\Desktop\SkatboardProject\SkateBoardWinFromsDislpay\bin\Debug\net5.0-windows\SkateBoardDisplay.deps.json
+C:\Users\Eyub\Desktop\SkatboardProject\SkateBoardWinFromsDislpay\bin\Debug\net5.0-windows\SkateBoardDisplay.runtimeconfig.json
+C:\Users\Eyub\Desktop\SkatboardProject\SkateBoardWinFromsDislpay\bin\Debug\net5.0-windows\SkateBoardDisplay.runtimeconfig.dev.json
+C:\Users\Eyub\Desktop\SkatboardProject\SkateBoardWinFromsDislpay\bin\Debug\net5.0-windows\SkateBoardDisplay.dll
+C:\Users\Eyub\Desktop\SkatboardProject\SkateBoardWinFromsDislpay\bin\Debug\net5.0-windows\SkateBoardDisplay.pdb
+C:\Users\Eyub\Desktop\SkatboardProject\SkateBoardWinFromsDislpay\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Eyub\Desktop\SkatboardProject\SkateBoardWinFromsDislpay\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Eyub\Desktop\SkatboardProject\SkateBoardWinFromsDislpay\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Eyub\Desktop\SkatboardProject\SkateBoardWinFromsDislpay\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Eyub\Desktop\SkatboardProject\SkateBoardWinFromsDislpay\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Eyub\Desktop\SkatboardProject\SkateBoardWinFromsDislpay\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Eyub\Desktop\SkatboardProject\SkateBoardWinFromsDislpay\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Eyub\Desktop\SkatboardProject\SkateBoardWinFromsDislpay\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Eyub\Desktop\SkatboardProject\SkateBoardWinFromsDislpay\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Eyub\Desktop\SkatboardProject\SkateBoardWinFromsDislpay\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Eyub\Desktop\SkatboardProject\SkateBoardWinFromsDislpay\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Eyub\Desktop\SkatboardProject\SkateBoardWinFromsDislpay\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Eyub\Desktop\SkatboardProject\SkateBoardWinFromsDislpay\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Eyub\Desktop\SkatboardProject\SkateBoardWinFromsDislpay\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Eyub\Desktop\SkatboardProject\SkateBoardWinFromsDislpay\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Eyub\Desktop\SkatboardProject\SkateBoardWinFromsDislpay\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Eyub\Desktop\SkatboardProject\SkateBoardWinFromsDislpay\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Eyub\Desktop\SkatboardProject\SkateBoardWinFromsDislpay\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Eyub\Desktop\SkatboardProject\SkateBoardWinFromsDislpay\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Eyub\Desktop\SkatboardProject\SkateBoardWinFromsDislpay\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Eyub\Desktop\SkatboardProject\SkateBoardWinFromsDislpay\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\Eyub\Desktop\SkatboardProject\SkateBoardWinFromsDislpay\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Eyub\Desktop\SkatboardProject\SkateBoardWinFromsDislpay\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Eyub\Desktop\SkatboardProject\SkateBoardWinFromsDislpay\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\Eyub\Desktop\SkatboardProject\SkateBoardWinFromsDislpay\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Eyub\Desktop\SkatboardProject\SkateBoardWinFromsDislpay\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Eyub\Desktop\SkatboardProject\SkateBoardWinFromsDislpay\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Eyub\Desktop\SkatboardProject\SkateBoardWinFromsDislpay\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Eyub\Desktop\SkatboardProject\SkateBoardWinFromsDislpay\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Eyub\Desktop\SkatboardProject\SkateBoardWinFromsDislpay\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Eyub\Desktop\SkatboardProject\SkateBoardWinFromsDislpay\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Eyub\Desktop\SkatboardProject\SkateBoardWinFromsDislpay\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Eyub\Desktop\SkatboardProject\SkateBoardWinFromsDislpay\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Eyub\Desktop\SkatboardProject\SkateBoardWinFromsDislpay\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Eyub\Desktop\SkatboardProject\SkateBoardWinFromsDislpay\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Eyub\Desktop\SkatboardProject\SkateBoardWinFromsDislpay\bin\Debug\net5.0-windows\Business.dll
+C:\Users\Eyub\Desktop\SkatboardProject\SkateBoardWinFromsDislpay\bin\Debug\net5.0-windows\Model.dll
+C:\Users\Eyub\Desktop\SkatboardProject\SkateBoardWinFromsDislpay\bin\Debug\net5.0-windows\Business.pdb
+C:\Users\Eyub\Desktop\SkatboardProject\SkateBoardWinFromsDislpay\bin\Debug\net5.0-windows\Model.pdb
+C:\Users\Eyub\Desktop\SkatboardProject\SkateBoardWinFromsDislpay\obj\Debug\net5.0-windows\SkateBoardDisplay.csproj.AssemblyReference.cache
+C:\Users\Eyub\Desktop\SkatboardProject\SkateBoardWinFromsDislpay\obj\Debug\net5.0-windows\SkateBoardDisplay.BearingForm.resources
+C:\Users\Eyub\Desktop\SkatboardProject\SkateBoardWinFromsDislpay\obj\Debug\net5.0-windows\SkateBoardDisplay.BrandForms.resources
+C:\Users\Eyub\Desktop\SkatboardProject\SkateBoardWinFromsDislpay\obj\Debug\net5.0-windows\SkateBoardDisplay.DecksForm.resources
+C:\Users\Eyub\Desktop\SkatboardProject\SkateBoardWinFromsDislpay\obj\Debug\net5.0-windows\SkateBoardDisplay.SkateboardForm.resources
+C:\Users\Eyub\Desktop\SkatboardProject\SkateBoardWinFromsDislpay\obj\Debug\net5.0-windows\SkateBoardDisplay.Properties.Resources.resources
+C:\Users\Eyub\Desktop\SkatboardProject\SkateBoardWinFromsDislpay\obj\Debug\net5.0-windows\SkateBoardDisplay.SKforms.resources
+C:\Users\Eyub\Desktop\SkatboardProject\SkateBoardWinFromsDislpay\obj\Debug\net5.0-windows\SkateBoardDisplay.WheelForm.resources
+C:\Users\Eyub\Desktop\SkatboardProject\SkateBoardWinFromsDislpay\obj\Debug\net5.0-windows\SkateBoardDisplay.csproj.GenerateResource.cache
+C:\Users\Eyub\Desktop\SkatboardProject\SkateBoardWinFromsDislpay\obj\Debug\net5.0-windows\SkateBoardDisplay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eyub\Desktop\SkatboardProject\SkateBoardWinFromsDislpay\obj\Debug\net5.0-windows\SkateBoardDisplay.AssemblyInfoInputs.cache
+C:\Users\Eyub\Desktop\SkatboardProject\SkateBoardWinFromsDislpay\obj\Debug\net5.0-windows\SkateBoardDisplay.AssemblyInfo.cs
+C:\Users\Eyub\Desktop\SkatboardProject\SkateBoardWinFromsDislpay\obj\Debug\net5.0-windows\SkateBoardDisplay.csproj.CoreCompileInputs.cache
+C:\Users\Eyub\Desktop\SkatboardProject\SkateBoardWinFromsDislpay\obj\Debug\net5.0-windows\SkateBoardDisplay.csproj.CopyComplete
+C:\Users\Eyub\Desktop\SkatboardProject\SkateBoardWinFromsDislpay\obj\Debug\net5.0-windows\SkateBoardDisplay.dll
+C:\Users\Eyub\Desktop\SkatboardProject\SkateBoardWinFromsDislpay\obj\Debug\net5.0-windows\refint\SkateBoardDisplay.dll
+C:\Users\Eyub\Desktop\SkatboardProject\SkateBoardWinFromsDislpay\obj\Debug\net5.0-windows\SkateBoardDisplay.pdb
+C:\Users\Eyub\Desktop\SkatboardProject\SkateBoardWinFromsDislpay\obj\Debug\net5.0-windows\SkateBoardDisplay.genruntimeconfig.cache
+C:\Users\Eyub\Desktop\SkatboardProject\SkateBoardWinFromsDislpay\obj\Debug\net5.0-windows\ref\SkateBoardDisplay.dll
