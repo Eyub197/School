@@ -1,0 +1,36 @@
+C:\Eyub 11 klas\school\SkatboardProject\Business\bin\Debug\net5.0\Business.deps.json
+C:\Eyub 11 klas\school\SkatboardProject\Business\bin\Debug\net5.0\Business.runtimeconfig.json
+C:\Eyub 11 klas\school\SkatboardProject\Business\bin\Debug\net5.0\Business.runtimeconfig.dev.json
+C:\Eyub 11 klas\school\SkatboardProject\Business\bin\Debug\net5.0\Business.dll
+C:\Eyub 11 klas\school\SkatboardProject\Business\bin\Debug\net5.0\Business.pdb
+C:\Eyub 11 klas\school\SkatboardProject\Business\bin\Debug\net5.0\Model.dll
+C:\Eyub 11 klas\school\SkatboardProject\Business\bin\Debug\net5.0\Model.pdb
+C:\Eyub 11 klas\school\SkatboardProject\Business\obj\Debug\net5.0\Business.csproj.AssemblyReference.cache
+C:\Eyub 11 klas\school\SkatboardProject\Business\obj\Debug\net5.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Eyub 11 klas\school\SkatboardProject\Business\obj\Debug\net5.0\Business.AssemblyInfoInputs.cache
+C:\Eyub 11 klas\school\SkatboardProject\Business\obj\Debug\net5.0\Business.AssemblyInfo.cs
+C:\Eyub 11 klas\school\SkatboardProject\Business\obj\Debug\net5.0\Business.csproj.CoreCompileInputs.cache
+C:\Eyub 11 klas\school\SkatboardProject\Business\obj\Debug\net5.0\Business.csproj.CopyComplete
+C:\Eyub 11 klas\school\SkatboardProject\Business\obj\Debug\net5.0\Business.dll
+C:\Eyub 11 klas\school\SkatboardProject\Business\obj\Debug\net5.0\refint\Business.dll
+C:\Eyub 11 klas\school\SkatboardProject\Business\obj\Debug\net5.0\Business.pdb
+C:\Eyub 11 klas\school\SkatboardProject\Business\obj\Debug\net5.0\Business.genruntimeconfig.cache
+C:\Eyub 11 klas\school\SkatboardProject\Business\obj\Debug\net5.0\ref\Business.dll
+C:\Users\Eyub\Desktop\SkatboardProject\Business\bin\Debug\net5.0\Business.deps.json
+C:\Users\Eyub\Desktop\SkatboardProject\Business\bin\Debug\net5.0\Business.runtimeconfig.json
+C:\Users\Eyub\Desktop\SkatboardProject\Business\bin\Debug\net5.0\Business.runtimeconfig.dev.json
+C:\Users\Eyub\Desktop\SkatboardProject\Business\bin\Debug\net5.0\Business.dll
+C:\Users\Eyub\Desktop\SkatboardProject\Business\bin\Debug\net5.0\Business.pdb
+C:\Users\Eyub\Desktop\SkatboardProject\Business\bin\Debug\net5.0\Model.dll
+C:\Users\Eyub\Desktop\SkatboardProject\Business\bin\Debug\net5.0\Model.pdb
+C:\Users\Eyub\Desktop\SkatboardProject\Business\obj\Debug\net5.0\Business.csproj.AssemblyReference.cache
+C:\Users\Eyub\Desktop\SkatboardProject\Business\obj\Debug\net5.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eyub\Desktop\SkatboardProject\Business\obj\Debug\net5.0\Business.AssemblyInfoInputs.cache
+C:\Users\Eyub\Desktop\SkatboardProject\Business\obj\Debug\net5.0\Business.AssemblyInfo.cs
+C:\Users\Eyub\Desktop\SkatboardProject\Business\obj\Debug\net5.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\Eyub\Desktop\SkatboardProject\Business\obj\Debug\net5.0\Business.csproj.CopyComplete
+C:\Users\Eyub\Desktop\SkatboardProject\Business\obj\Debug\net5.0\Business.dll
+C:\Users\Eyub\Desktop\SkatboardProject\Business\obj\Debug\net5.0\refint\Business.dll
+C:\Users\Eyub\Desktop\SkatboardProject\Business\obj\Debug\net5.0\Business.pdb
+C:\Users\Eyub\Desktop\SkatboardProject\Business\obj\Debug\net5.0\Business.genruntimeconfig.cache
+C:\Users\Eyub\Desktop\SkatboardProject\Business\obj\Debug\net5.0\ref\Business.dll
