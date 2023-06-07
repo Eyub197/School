@@ -1,0 +1,45 @@
+D:\Users\U607\Documents\11a_1grupa_RS\SkateBoardProjectWin\Model\bin\Debug\net5.0\Model.deps.json
+D:\Users\U607\Documents\11a_1grupa_RS\SkateBoardProjectWin\Model\bin\Debug\net5.0\Model.runtimeconfig.json
+D:\Users\U607\Documents\11a_1grupa_RS\SkateBoardProjectWin\Model\bin\Debug\net5.0\Model.runtimeconfig.dev.json
+D:\Users\U607\Documents\11a_1grupa_RS\SkateBoardProjectWin\Model\bin\Debug\net5.0\Model.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateBoardProjectWin\Model\bin\Debug\net5.0\ref\Model.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateBoardProjectWin\Model\bin\Debug\net5.0\Model.pdb
+D:\Users\U607\Documents\11a_1grupa_RS\SkateBoardProjectWin\Model\obj\Debug\net5.0\Model.csproj.AssemblyReference.cache
+D:\Users\U607\Documents\11a_1grupa_RS\SkateBoardProjectWin\Model\obj\Debug\net5.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\U607\Documents\11a_1grupa_RS\SkateBoardProjectWin\Model\obj\Debug\net5.0\Model.AssemblyInfoInputs.cache
+D:\Users\U607\Documents\11a_1grupa_RS\SkateBoardProjectWin\Model\obj\Debug\net5.0\Model.AssemblyInfo.cs
+D:\Users\U607\Documents\11a_1grupa_RS\SkateBoardProjectWin\Model\obj\Debug\net5.0\Model.csproj.CoreCompileInputs.cache
+D:\Users\U607\Documents\11a_1grupa_RS\SkateBoardProjectWin\Model\obj\Debug\net5.0\Model.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateBoardProjectWin\Model\obj\Debug\net5.0\ref\Model.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateBoardProjectWin\Model\obj\Debug\net5.0\Model.pdb
+D:\Users\U607\Documents\11a_1grupa_RS\SkateBoardProjectWin\Model\obj\Debug\net5.0\Model.genruntimeconfig.cache
+C:\Eyub 11 klas\school\SkatboardProject\Model\bin\Debug\net5.0\Model.deps.json
+C:\Eyub 11 klas\school\SkatboardProject\Model\bin\Debug\net5.0\Model.runtimeconfig.json
+C:\Eyub 11 klas\school\SkatboardProject\Model\bin\Debug\net5.0\Model.runtimeconfig.dev.json
+C:\Eyub 11 klas\school\SkatboardProject\Model\bin\Debug\net5.0\Model.dll
+C:\Eyub 11 klas\school\SkatboardProject\Model\bin\Debug\net5.0\Model.pdb
+C:\Eyub 11 klas\school\SkatboardProject\Model\obj\Debug\net5.0\Model.csproj.AssemblyReference.cache
+C:\Eyub 11 klas\school\SkatboardProject\Model\obj\Debug\net5.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Eyub 11 klas\school\SkatboardProject\Model\obj\Debug\net5.0\Model.AssemblyInfoInputs.cache
+C:\Eyub 11 klas\school\SkatboardProject\Model\obj\Debug\net5.0\Model.AssemblyInfo.cs
+C:\Eyub 11 klas\school\SkatboardProject\Model\obj\Debug\net5.0\Model.csproj.CoreCompileInputs.cache
+C:\Eyub 11 klas\school\SkatboardProject\Model\obj\Debug\net5.0\Model.dll
+C:\Eyub 11 klas\school\SkatboardProject\Model\obj\Debug\net5.0\refint\Model.dll
+C:\Eyub 11 klas\school\SkatboardProject\Model\obj\Debug\net5.0\Model.pdb
+C:\Eyub 11 klas\school\SkatboardProject\Model\obj\Debug\net5.0\Model.genruntimeconfig.cache
+C:\Eyub 11 klas\school\SkatboardProject\Model\obj\Debug\net5.0\ref\Model.dll
+C:\Users\Eyub\Desktop\SkatboardProject\Model\bin\Debug\net5.0\Model.deps.json
+C:\Users\Eyub\Desktop\SkatboardProject\Model\bin\Debug\net5.0\Model.runtimeconfig.json
+C:\Users\Eyub\Desktop\SkatboardProject\Model\bin\Debug\net5.0\Model.runtimeconfig.dev.json
+C:\Users\Eyub\Desktop\SkatboardProject\Model\bin\Debug\net5.0\Model.dll
+C:\Users\Eyub\Desktop\SkatboardProject\Model\bin\Debug\net5.0\Model.pdb
+C:\Users\Eyub\Desktop\SkatboardProject\Model\obj\Debug\net5.0\Model.csproj.AssemblyReference.cache
+C:\Users\Eyub\Desktop\SkatboardProject\Model\obj\Debug\net5.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eyub\Desktop\SkatboardProject\Model\obj\Debug\net5.0\Model.AssemblyInfoInputs.cache
+C:\Users\Eyub\Desktop\SkatboardProject\Model\obj\Debug\net5.0\Model.AssemblyInfo.cs
+C:\Users\Eyub\Desktop\SkatboardProject\Model\obj\Debug\net5.0\Model.csproj.CoreCompileInputs.cache
+C:\Users\Eyub\Desktop\SkatboardProject\Model\obj\Debug\net5.0\Model.dll
+C:\Users\Eyub\Desktop\SkatboardProject\Model\obj\Debug\net5.0\refint\Model.dll
+C:\Users\Eyub\Desktop\SkatboardProject\Model\obj\Debug\net5.0\Model.pdb
+C:\Users\Eyub\Desktop\SkatboardProject\Model\obj\Debug\net5.0\Model.genruntimeconfig.cache
+C:\Users\Eyub\Desktop\SkatboardProject\Model\obj\Debug\net5.0\ref\Model.dll
