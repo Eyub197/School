@@ -1,0 +1,16 @@
+D:\Users\U607\Documents\12a_Alogrithms_and_DataStructurs_1grupa\exMoneti\exMoneti\bin\Debug\net5.0\exMoneti.exe
+D:\Users\U607\Documents\12a_Alogrithms_and_DataStructurs_1grupa\exMoneti\exMoneti\bin\Debug\net5.0\exMoneti.deps.json
+D:\Users\U607\Documents\12a_Alogrithms_and_DataStructurs_1grupa\exMoneti\exMoneti\bin\Debug\net5.0\exMoneti.runtimeconfig.json
+D:\Users\U607\Documents\12a_Alogrithms_and_DataStructurs_1grupa\exMoneti\exMoneti\bin\Debug\net5.0\exMoneti.runtimeconfig.dev.json
+D:\Users\U607\Documents\12a_Alogrithms_and_DataStructurs_1grupa\exMoneti\exMoneti\bin\Debug\net5.0\exMoneti.dll
+D:\Users\U607\Documents\12a_Alogrithms_and_DataStructurs_1grupa\exMoneti\exMoneti\bin\Debug\net5.0\ref\exMoneti.dll
+D:\Users\U607\Documents\12a_Alogrithms_and_DataStructurs_1grupa\exMoneti\exMoneti\bin\Debug\net5.0\exMoneti.pdb
+D:\Users\U607\Documents\12a_Alogrithms_and_DataStructurs_1grupa\exMoneti\exMoneti\obj\Debug\net5.0\exMoneti.csproj.AssemblyReference.cache
+D:\Users\U607\Documents\12a_Alogrithms_and_DataStructurs_1grupa\exMoneti\exMoneti\obj\Debug\net5.0\exMoneti.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\U607\Documents\12a_Alogrithms_and_DataStructurs_1grupa\exMoneti\exMoneti\obj\Debug\net5.0\exMoneti.AssemblyInfoInputs.cache
+D:\Users\U607\Documents\12a_Alogrithms_and_DataStructurs_1grupa\exMoneti\exMoneti\obj\Debug\net5.0\exMoneti.AssemblyInfo.cs
+D:\Users\U607\Documents\12a_Alogrithms_and_DataStructurs_1grupa\exMoneti\exMoneti\obj\Debug\net5.0\exMoneti.csproj.CoreCompileInputs.cache
+D:\Users\U607\Documents\12a_Alogrithms_and_DataStructurs_1grupa\exMoneti\exMoneti\obj\Debug\net5.0\exMoneti.dll
+D:\Users\U607\Documents\12a_Alogrithms_and_DataStructurs_1grupa\exMoneti\exMoneti\obj\Debug\net5.0\ref\exMoneti.dll
+D:\Users\U607\Documents\12a_Alogrithms_and_DataStructurs_1grupa\exMoneti\exMoneti\obj\Debug\net5.0\exMoneti.pdb
+D:\Users\U607\Documents\12a_Alogrithms_and_DataStructurs_1grupa\exMoneti\exMoneti\obj\Debug\net5.0\exMoneti.genruntimeconfig.cache

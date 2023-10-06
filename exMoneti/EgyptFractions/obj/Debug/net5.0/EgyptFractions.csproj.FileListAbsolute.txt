@@ -1,0 +1,16 @@
+D:\Users\U607\Documents\12a_Alogrithms_and_DataStructurs_1grupa\exMoneti\EgyptFractions\bin\Debug\net5.0\EgyptFractions.exe
+D:\Users\U607\Documents\12a_Alogrithms_and_DataStructurs_1grupa\exMoneti\EgyptFractions\bin\Debug\net5.0\EgyptFractions.deps.json
+D:\Users\U607\Documents\12a_Alogrithms_and_DataStructurs_1grupa\exMoneti\EgyptFractions\bin\Debug\net5.0\EgyptFractions.runtimeconfig.json
+D:\Users\U607\Documents\12a_Alogrithms_and_DataStructurs_1grupa\exMoneti\EgyptFractions\bin\Debug\net5.0\EgyptFractions.runtimeconfig.dev.json
+D:\Users\U607\Documents\12a_Alogrithms_and_DataStructurs_1grupa\exMoneti\EgyptFractions\bin\Debug\net5.0\EgyptFractions.dll
+D:\Users\U607\Documents\12a_Alogrithms_and_DataStructurs_1grupa\exMoneti\EgyptFractions\bin\Debug\net5.0\ref\EgyptFractions.dll
+D:\Users\U607\Documents\12a_Alogrithms_and_DataStructurs_1grupa\exMoneti\EgyptFractions\bin\Debug\net5.0\EgyptFractions.pdb
+D:\Users\U607\Documents\12a_Alogrithms_and_DataStructurs_1grupa\exMoneti\EgyptFractions\obj\Debug\net5.0\EgyptFractions.csproj.AssemblyReference.cache
+D:\Users\U607\Documents\12a_Alogrithms_and_DataStructurs_1grupa\exMoneti\EgyptFractions\obj\Debug\net5.0\EgyptFractions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\U607\Documents\12a_Alogrithms_and_DataStructurs_1grupa\exMoneti\EgyptFractions\obj\Debug\net5.0\EgyptFractions.AssemblyInfoInputs.cache
+D:\Users\U607\Documents\12a_Alogrithms_and_DataStructurs_1grupa\exMoneti\EgyptFractions\obj\Debug\net5.0\EgyptFractions.AssemblyInfo.cs
+D:\Users\U607\Documents\12a_Alogrithms_and_DataStructurs_1grupa\exMoneti\EgyptFractions\obj\Debug\net5.0\EgyptFractions.csproj.CoreCompileInputs.cache
+D:\Users\U607\Documents\12a_Alogrithms_and_DataStructurs_1grupa\exMoneti\EgyptFractions\obj\Debug\net5.0\EgyptFractions.dll
+D:\Users\U607\Documents\12a_Alogrithms_and_DataStructurs_1grupa\exMoneti\EgyptFractions\obj\Debug\net5.0\ref\EgyptFractions.dll
+D:\Users\U607\Documents\12a_Alogrithms_and_DataStructurs_1grupa\exMoneti\EgyptFractions\obj\Debug\net5.0\EgyptFractions.pdb
+D:\Users\U607\Documents\12a_Alogrithms_and_DataStructurs_1grupa\exMoneti\EgyptFractions\obj\Debug\net5.0\EgyptFractions.genruntimeconfig.cache
