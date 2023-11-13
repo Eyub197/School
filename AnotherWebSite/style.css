@@ -1,0 +1,90 @@
+:root{
+    --primary-color-one: #ffffff;
+    --primary-color-two: black;
+    --primary-color-three: brown;
+}
+
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0px;
+    padding: 0px;
+    font-size: 1rem;
+    color: var(--primary-color-one);
+    font-family: 'Open Sans', sans-serif;
+}
+
+a{
+    text-decoration: none;
+    color: var(--primary-color-two);
+}
+
+ul,li {
+    list-style: none;
+    margin: 0;
+    padding:;
+}
+
+img{
+    width: 50px;
+}
+
+    /*TYPOGRAPHY*/
+
+.hero-item-tex{
+    font-size: 0.8rem;
+}
+
+    /*===============
+    lAYOUT============*/
+
+    /*Grid*/
+
+.wrapper{
+    display: grid;
+    grid-template-columns: 0.5em 1fr 0.5em;
+    grid-template-areas: 
+    ". h ."
+    ". i ."
+    ". m ."
+    ". f .";
+}
+
+header{
+    grid-area: h;
+}
+
+.industries{
+    grid-area: i;
+}
+
+.misson{
+    grid-area: m;
+}
+
+footer{
+    grid-area: f;
+}
+
+/*NAV*/
+
+
+/*Header*/
+header{
+   
+}
+
+
+
+.hero{
+    height: 600px;
+    background-image: url(./images/Layer-759_02.jpg);
+    background-size: cover;
+    grid-column: span 0;
+}
+
+
+
+
