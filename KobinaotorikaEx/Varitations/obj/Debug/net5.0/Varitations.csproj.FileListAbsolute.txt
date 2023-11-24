@@ -1,0 +1,16 @@
+D:\Users\U607\Documents\12a 1grupa\12a_Alogrithms_and_DataStructurs_1grupa\KobinaotorikaEx\Varitations\bin\Debug\net5.0\Varitations.exe
+D:\Users\U607\Documents\12a 1grupa\12a_Alogrithms_and_DataStructurs_1grupa\KobinaotorikaEx\Varitations\bin\Debug\net5.0\Varitations.deps.json
+D:\Users\U607\Documents\12a 1grupa\12a_Alogrithms_and_DataStructurs_1grupa\KobinaotorikaEx\Varitations\bin\Debug\net5.0\Varitations.runtimeconfig.json
+D:\Users\U607\Documents\12a 1grupa\12a_Alogrithms_and_DataStructurs_1grupa\KobinaotorikaEx\Varitations\bin\Debug\net5.0\Varitations.runtimeconfig.dev.json
+D:\Users\U607\Documents\12a 1grupa\12a_Alogrithms_and_DataStructurs_1grupa\KobinaotorikaEx\Varitations\bin\Debug\net5.0\Varitations.dll
+D:\Users\U607\Documents\12a 1grupa\12a_Alogrithms_and_DataStructurs_1grupa\KobinaotorikaEx\Varitations\bin\Debug\net5.0\ref\Varitations.dll
+D:\Users\U607\Documents\12a 1grupa\12a_Alogrithms_and_DataStructurs_1grupa\KobinaotorikaEx\Varitations\bin\Debug\net5.0\Varitations.pdb
+D:\Users\U607\Documents\12a 1grupa\12a_Alogrithms_and_DataStructurs_1grupa\KobinaotorikaEx\Varitations\obj\Debug\net5.0\Varitations.csproj.AssemblyReference.cache
+D:\Users\U607\Documents\12a 1grupa\12a_Alogrithms_and_DataStructurs_1grupa\KobinaotorikaEx\Varitations\obj\Debug\net5.0\Varitations.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\U607\Documents\12a 1grupa\12a_Alogrithms_and_DataStructurs_1grupa\KobinaotorikaEx\Varitations\obj\Debug\net5.0\Varitations.AssemblyInfoInputs.cache
+D:\Users\U607\Documents\12a 1grupa\12a_Alogrithms_and_DataStructurs_1grupa\KobinaotorikaEx\Varitations\obj\Debug\net5.0\Varitations.AssemblyInfo.cs
+D:\Users\U607\Documents\12a 1grupa\12a_Alogrithms_and_DataStructurs_1grupa\KobinaotorikaEx\Varitations\obj\Debug\net5.0\Varitations.csproj.CoreCompileInputs.cache
+D:\Users\U607\Documents\12a 1grupa\12a_Alogrithms_and_DataStructurs_1grupa\KobinaotorikaEx\Varitations\obj\Debug\net5.0\Varitations.dll
+D:\Users\U607\Documents\12a 1grupa\12a_Alogrithms_and_DataStructurs_1grupa\KobinaotorikaEx\Varitations\obj\Debug\net5.0\ref\Varitations.dll
+D:\Users\U607\Documents\12a 1grupa\12a_Alogrithms_and_DataStructurs_1grupa\KobinaotorikaEx\Varitations\obj\Debug\net5.0\Varitations.pdb
+D:\Users\U607\Documents\12a 1grupa\12a_Alogrithms_and_DataStructurs_1grupa\KobinaotorikaEx\Varitations\obj\Debug\net5.0\Varitations.genruntimeconfig.cache

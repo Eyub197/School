@@ -1,0 +1,16 @@
+D:\Users\U607\Documents\12a 1grupa\12a_Alogrithms_and_DataStructurs_1grupa\KobinaotorikaEx\Kombinations\bin\Debug\net5.0\Kombinations.exe
+D:\Users\U607\Documents\12a 1grupa\12a_Alogrithms_and_DataStructurs_1grupa\KobinaotorikaEx\Kombinations\bin\Debug\net5.0\Kombinations.deps.json
+D:\Users\U607\Documents\12a 1grupa\12a_Alogrithms_and_DataStructurs_1grupa\KobinaotorikaEx\Kombinations\bin\Debug\net5.0\Kombinations.runtimeconfig.json
+D:\Users\U607\Documents\12a 1grupa\12a_Alogrithms_and_DataStructurs_1grupa\KobinaotorikaEx\Kombinations\bin\Debug\net5.0\Kombinations.runtimeconfig.dev.json
+D:\Users\U607\Documents\12a 1grupa\12a_Alogrithms_and_DataStructurs_1grupa\KobinaotorikaEx\Kombinations\bin\Debug\net5.0\Kombinations.dll
+D:\Users\U607\Documents\12a 1grupa\12a_Alogrithms_and_DataStructurs_1grupa\KobinaotorikaEx\Kombinations\bin\Debug\net5.0\ref\Kombinations.dll
+D:\Users\U607\Documents\12a 1grupa\12a_Alogrithms_and_DataStructurs_1grupa\KobinaotorikaEx\Kombinations\bin\Debug\net5.0\Kombinations.pdb
+D:\Users\U607\Documents\12a 1grupa\12a_Alogrithms_and_DataStructurs_1grupa\KobinaotorikaEx\Kombinations\obj\Debug\net5.0\Kombinations.csproj.AssemblyReference.cache
+D:\Users\U607\Documents\12a 1grupa\12a_Alogrithms_and_DataStructurs_1grupa\KobinaotorikaEx\Kombinations\obj\Debug\net5.0\Kombinations.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\U607\Documents\12a 1grupa\12a_Alogrithms_and_DataStructurs_1grupa\KobinaotorikaEx\Kombinations\obj\Debug\net5.0\Kombinations.AssemblyInfoInputs.cache
+D:\Users\U607\Documents\12a 1grupa\12a_Alogrithms_and_DataStructurs_1grupa\KobinaotorikaEx\Kombinations\obj\Debug\net5.0\Kombinations.AssemblyInfo.cs
+D:\Users\U607\Documents\12a 1grupa\12a_Alogrithms_and_DataStructurs_1grupa\KobinaotorikaEx\Kombinations\obj\Debug\net5.0\Kombinations.csproj.CoreCompileInputs.cache
+D:\Users\U607\Documents\12a 1grupa\12a_Alogrithms_and_DataStructurs_1grupa\KobinaotorikaEx\Kombinations\obj\Debug\net5.0\Kombinations.dll
+D:\Users\U607\Documents\12a 1grupa\12a_Alogrithms_and_DataStructurs_1grupa\KobinaotorikaEx\Kombinations\obj\Debug\net5.0\ref\Kombinations.dll
+D:\Users\U607\Documents\12a 1grupa\12a_Alogrithms_and_DataStructurs_1grupa\KobinaotorikaEx\Kombinations\obj\Debug\net5.0\Kombinations.pdb
+D:\Users\U607\Documents\12a 1grupa\12a_Alogrithms_and_DataStructurs_1grupa\KobinaotorikaEx\Kombinations\obj\Debug\net5.0\Kombinations.genruntimeconfig.cache
