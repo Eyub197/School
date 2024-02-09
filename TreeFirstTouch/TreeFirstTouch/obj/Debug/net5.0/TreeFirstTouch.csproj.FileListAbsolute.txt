@@ -1,0 +1,16 @@
+D:\Users\U607\Documents\12a 1grupa\12a_Alogrithms_and_DataStructurs_1grupa\TreeFirstTouch\TreeFirstTouch\bin\Debug\net5.0\TreeFirstTouch.exe
+D:\Users\U607\Documents\12a 1grupa\12a_Alogrithms_and_DataStructurs_1grupa\TreeFirstTouch\TreeFirstTouch\bin\Debug\net5.0\TreeFirstTouch.deps.json
+D:\Users\U607\Documents\12a 1grupa\12a_Alogrithms_and_DataStructurs_1grupa\TreeFirstTouch\TreeFirstTouch\bin\Debug\net5.0\TreeFirstTouch.runtimeconfig.json
+D:\Users\U607\Documents\12a 1grupa\12a_Alogrithms_and_DataStructurs_1grupa\TreeFirstTouch\TreeFirstTouch\bin\Debug\net5.0\TreeFirstTouch.runtimeconfig.dev.json
+D:\Users\U607\Documents\12a 1grupa\12a_Alogrithms_and_DataStructurs_1grupa\TreeFirstTouch\TreeFirstTouch\bin\Debug\net5.0\TreeFirstTouch.dll
+D:\Users\U607\Documents\12a 1grupa\12a_Alogrithms_and_DataStructurs_1grupa\TreeFirstTouch\TreeFirstTouch\bin\Debug\net5.0\ref\TreeFirstTouch.dll
+D:\Users\U607\Documents\12a 1grupa\12a_Alogrithms_and_DataStructurs_1grupa\TreeFirstTouch\TreeFirstTouch\bin\Debug\net5.0\TreeFirstTouch.pdb
+D:\Users\U607\Documents\12a 1grupa\12a_Alogrithms_and_DataStructurs_1grupa\TreeFirstTouch\TreeFirstTouch\obj\Debug\net5.0\TreeFirstTouch.csproj.AssemblyReference.cache
+D:\Users\U607\Documents\12a 1grupa\12a_Alogrithms_and_DataStructurs_1grupa\TreeFirstTouch\TreeFirstTouch\obj\Debug\net5.0\TreeFirstTouch.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\U607\Documents\12a 1grupa\12a_Alogrithms_and_DataStructurs_1grupa\TreeFirstTouch\TreeFirstTouch\obj\Debug\net5.0\TreeFirstTouch.AssemblyInfoInputs.cache
+D:\Users\U607\Documents\12a 1grupa\12a_Alogrithms_and_DataStructurs_1grupa\TreeFirstTouch\TreeFirstTouch\obj\Debug\net5.0\TreeFirstTouch.AssemblyInfo.cs
+D:\Users\U607\Documents\12a 1grupa\12a_Alogrithms_and_DataStructurs_1grupa\TreeFirstTouch\TreeFirstTouch\obj\Debug\net5.0\TreeFirstTouch.csproj.CoreCompileInputs.cache
+D:\Users\U607\Documents\12a 1grupa\12a_Alogrithms_and_DataStructurs_1grupa\TreeFirstTouch\TreeFirstTouch\obj\Debug\net5.0\TreeFirstTouch.dll
+D:\Users\U607\Documents\12a 1grupa\12a_Alogrithms_and_DataStructurs_1grupa\TreeFirstTouch\TreeFirstTouch\obj\Debug\net5.0\ref\TreeFirstTouch.dll
+D:\Users\U607\Documents\12a 1grupa\12a_Alogrithms_and_DataStructurs_1grupa\TreeFirstTouch\TreeFirstTouch\obj\Debug\net5.0\TreeFirstTouch.pdb
+D:\Users\U607\Documents\12a 1grupa\12a_Alogrithms_and_DataStructurs_1grupa\TreeFirstTouch\TreeFirstTouch\obj\Debug\net5.0\TreeFirstTouch.genruntimeconfig.cache
