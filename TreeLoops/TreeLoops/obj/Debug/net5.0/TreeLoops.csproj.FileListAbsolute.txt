@@ -1,0 +1,16 @@
+D:\Users\U607\Documents\12a I grupa\ASD\TreeLoops\TreeLoops\bin\Debug\net5.0\TreeLoops.exe
+D:\Users\U607\Documents\12a I grupa\ASD\TreeLoops\TreeLoops\bin\Debug\net5.0\TreeLoops.deps.json
+D:\Users\U607\Documents\12a I grupa\ASD\TreeLoops\TreeLoops\bin\Debug\net5.0\TreeLoops.runtimeconfig.json
+D:\Users\U607\Documents\12a I grupa\ASD\TreeLoops\TreeLoops\bin\Debug\net5.0\TreeLoops.runtimeconfig.dev.json
+D:\Users\U607\Documents\12a I grupa\ASD\TreeLoops\TreeLoops\bin\Debug\net5.0\TreeLoops.dll
+D:\Users\U607\Documents\12a I grupa\ASD\TreeLoops\TreeLoops\bin\Debug\net5.0\ref\TreeLoops.dll
+D:\Users\U607\Documents\12a I grupa\ASD\TreeLoops\TreeLoops\bin\Debug\net5.0\TreeLoops.pdb
+D:\Users\U607\Documents\12a I grupa\ASD\TreeLoops\TreeLoops\obj\Debug\net5.0\TreeLoops.csproj.AssemblyReference.cache
+D:\Users\U607\Documents\12a I grupa\ASD\TreeLoops\TreeLoops\obj\Debug\net5.0\TreeLoops.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\U607\Documents\12a I grupa\ASD\TreeLoops\TreeLoops\obj\Debug\net5.0\TreeLoops.AssemblyInfoInputs.cache
+D:\Users\U607\Documents\12a I grupa\ASD\TreeLoops\TreeLoops\obj\Debug\net5.0\TreeLoops.AssemblyInfo.cs
+D:\Users\U607\Documents\12a I grupa\ASD\TreeLoops\TreeLoops\obj\Debug\net5.0\TreeLoops.csproj.CoreCompileInputs.cache
+D:\Users\U607\Documents\12a I grupa\ASD\TreeLoops\TreeLoops\obj\Debug\net5.0\TreeLoops.dll
+D:\Users\U607\Documents\12a I grupa\ASD\TreeLoops\TreeLoops\obj\Debug\net5.0\ref\TreeLoops.dll
+D:\Users\U607\Documents\12a I grupa\ASD\TreeLoops\TreeLoops\obj\Debug\net5.0\TreeLoops.pdb
+D:\Users\U607\Documents\12a I grupa\ASD\TreeLoops\TreeLoops\obj\Debug\net5.0\TreeLoops.genruntimeconfig.cache
