@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrafIretation", "GrafIretation\GrafIretation.csproj", "{35028B55-617C-43DF-85FC-48272AEEDC10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35028B55-617C-43DF-85FC-48272AEEDC10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35028B55-617C-43DF-85FC-48272AEEDC10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35028B55-617C-43DF-85FC-48272AEEDC10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35028B55-617C-43DF-85FC-48272AEEDC10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14E2E898-DA1E-490D-8309-0B6BA2283EA6}
+	EndGlobalSection
+EndGlobal

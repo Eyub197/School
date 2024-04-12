@@ -1,0 +1,16 @@
+D:\Users\U607\Documents\12a I grupa\ASD\GrafShowing\GrafShowing\bin\Debug\net5.0\GrafShowing.exe
+D:\Users\U607\Documents\12a I grupa\ASD\GrafShowing\GrafShowing\bin\Debug\net5.0\GrafShowing.deps.json
+D:\Users\U607\Documents\12a I grupa\ASD\GrafShowing\GrafShowing\bin\Debug\net5.0\GrafShowing.runtimeconfig.json
+D:\Users\U607\Documents\12a I grupa\ASD\GrafShowing\GrafShowing\bin\Debug\net5.0\GrafShowing.runtimeconfig.dev.json
+D:\Users\U607\Documents\12a I grupa\ASD\GrafShowing\GrafShowing\bin\Debug\net5.0\GrafShowing.dll
+D:\Users\U607\Documents\12a I grupa\ASD\GrafShowing\GrafShowing\bin\Debug\net5.0\ref\GrafShowing.dll
+D:\Users\U607\Documents\12a I grupa\ASD\GrafShowing\GrafShowing\bin\Debug\net5.0\GrafShowing.pdb
+D:\Users\U607\Documents\12a I grupa\ASD\GrafShowing\GrafShowing\obj\Debug\net5.0\GrafShowing.csproj.AssemblyReference.cache
+D:\Users\U607\Documents\12a I grupa\ASD\GrafShowing\GrafShowing\obj\Debug\net5.0\GrafShowing.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\U607\Documents\12a I grupa\ASD\GrafShowing\GrafShowing\obj\Debug\net5.0\GrafShowing.AssemblyInfoInputs.cache
+D:\Users\U607\Documents\12a I grupa\ASD\GrafShowing\GrafShowing\obj\Debug\net5.0\GrafShowing.AssemblyInfo.cs
+D:\Users\U607\Documents\12a I grupa\ASD\GrafShowing\GrafShowing\obj\Debug\net5.0\GrafShowing.csproj.CoreCompileInputs.cache
+D:\Users\U607\Documents\12a I grupa\ASD\GrafShowing\GrafShowing\obj\Debug\net5.0\GrafShowing.dll
+D:\Users\U607\Documents\12a I grupa\ASD\GrafShowing\GrafShowing\obj\Debug\net5.0\ref\GrafShowing.dll
+D:\Users\U607\Documents\12a I grupa\ASD\GrafShowing\GrafShowing\obj\Debug\net5.0\GrafShowing.pdb
+D:\Users\U607\Documents\12a I grupa\ASD\GrafShowing\GrafShowing\obj\Debug\net5.0\GrafShowing.genruntimeconfig.cache

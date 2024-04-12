@@ -1,0 +1,16 @@
+D:\Users\U607\Documents\12a I grupa\ASD\GrafIretation\GrafIretation\bin\Debug\net5.0\GrafIretation.exe
+D:\Users\U607\Documents\12a I grupa\ASD\GrafIretation\GrafIretation\bin\Debug\net5.0\GrafIretation.deps.json
+D:\Users\U607\Documents\12a I grupa\ASD\GrafIretation\GrafIretation\bin\Debug\net5.0\GrafIretation.runtimeconfig.json
+D:\Users\U607\Documents\12a I grupa\ASD\GrafIretation\GrafIretation\bin\Debug\net5.0\GrafIretation.runtimeconfig.dev.json
+D:\Users\U607\Documents\12a I grupa\ASD\GrafIretation\GrafIretation\bin\Debug\net5.0\GrafIretation.dll
+D:\Users\U607\Documents\12a I grupa\ASD\GrafIretation\GrafIretation\bin\Debug\net5.0\ref\GrafIretation.dll
+D:\Users\U607\Documents\12a I grupa\ASD\GrafIretation\GrafIretation\bin\Debug\net5.0\GrafIretation.pdb
+D:\Users\U607\Documents\12a I grupa\ASD\GrafIretation\GrafIretation\obj\Debug\net5.0\GrafIretation.csproj.AssemblyReference.cache
+D:\Users\U607\Documents\12a I grupa\ASD\GrafIretation\GrafIretation\obj\Debug\net5.0\GrafIretation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\U607\Documents\12a I grupa\ASD\GrafIretation\GrafIretation\obj\Debug\net5.0\GrafIretation.AssemblyInfoInputs.cache
+D:\Users\U607\Documents\12a I grupa\ASD\GrafIretation\GrafIretation\obj\Debug\net5.0\GrafIretation.AssemblyInfo.cs
+D:\Users\U607\Documents\12a I grupa\ASD\GrafIretation\GrafIretation\obj\Debug\net5.0\GrafIretation.csproj.CoreCompileInputs.cache
+D:\Users\U607\Documents\12a I grupa\ASD\GrafIretation\GrafIretation\obj\Debug\net5.0\GrafIretation.dll
+D:\Users\U607\Documents\12a I grupa\ASD\GrafIretation\GrafIretation\obj\Debug\net5.0\ref\GrafIretation.dll
+D:\Users\U607\Documents\12a I grupa\ASD\GrafIretation\GrafIretation\obj\Debug\net5.0\GrafIretation.pdb
+D:\Users\U607\Documents\12a I grupa\ASD\GrafIretation\GrafIretation\obj\Debug\net5.0\GrafIretation.genruntimeconfig.cache
